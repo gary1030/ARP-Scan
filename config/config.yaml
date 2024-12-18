@@ -1,0 +1,8 @@
+arp:
+  nic: eth0
+  ipRange:
+    - 172.25.75.50-172.25.75.55
+    - 172.25.75.60-172.25.75.65
+  timeout: 3
+
+reportPath: ./index.html
